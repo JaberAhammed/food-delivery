@@ -3,11 +3,12 @@ span{
 }
 .healthy-word{
               font-family: 'Secular One', sans-serif;
-               font-size: 42px;
+               font-size: 45px;
                color: rgb(58, 45, 25);
 }
 section{
          display: flex ;
+         margin-bottom: 100px;
 }
 .half-width{
              width: 50%;
@@ -24,6 +25,39 @@ section{
              color: wheat;
             
 }
-.top-banner{
-            background-image: url(frame1.png);
+.about{
+        font-size: 30px;
+        color: rgb(58, 45, 25);
+        text-align: center;
+        padding-top: 10px;
+        padding-left: 0px;
+}
+h5{
+    text-align: justify;
+    padding-top: 26px;
+    font-size: 18px;
+
+}
+.half-width-ordre{
+                    width: 50%;
+                    padding-left: 1%;
+                    padding-right: 15%;
+}
+.half-width-ordre img{
+                     
+                      width: 100%;
+                      padding-left: 25%;
+}
+.top-banner{background-image: url(jaber.jpg); 
+          background-repeat: no-repeat;
+
+}
+.link-button2{
+              text-decoration:none;
+              background-image: linear-gradient(#cf1414,#ac207d);
+              padding: 10px 40px;
+              border-radius: 5px;
+              color: rgb(241, 221, 182);
+             
+   
 }
